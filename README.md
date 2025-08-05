@@ -68,3 +68,4 @@ export default tseslint.config([
 ])
 ```
 "# DmdelayMessage" 
+"# dm_delay_message" 
